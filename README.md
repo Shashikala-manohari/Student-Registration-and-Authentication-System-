@@ -2,7 +2,6 @@
 
 A simple full-stack web application that allows students to register and log in to a system using their credentials. This project was built using **Java Spring Boot** for the backend, **React** for the frontend, and **MySQL** for data storage.
 
----
 
 ##  Technologies Used
 
@@ -19,7 +18,6 @@ A simple full-stack web application that allows students to register and log in 
 - HTML
 - CSS
   
----
 
 ##  Features
 
